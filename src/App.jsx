@@ -1,13 +1,10 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-
+import NavbarComponent from "./components/NavbarComponent";
 
 function App() {
   return (
     <>
       <div>
-        <h1 className="text-7xl">RADIIII</h1>
+        <NavbarComponent />
       </div>
     </>
   );
