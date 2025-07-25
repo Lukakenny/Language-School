@@ -9,5 +9,10 @@
     "serbian": "Srpski",
     "english": "Engleski",
     "german": "Nemacki"
+  },
+  "hero": {
+    "heading": "<1>Jedinstven</1> pristup učenju stranih jezika putem interneta",
+    "description": "Učite sopstvenim tempom, sa doživotnim pristupom na telefonu i računaru",
+    "getStarted": "Započnite sa učenjem"
   }
 }

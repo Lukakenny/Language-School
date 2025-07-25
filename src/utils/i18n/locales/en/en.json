@@ -9,5 +9,10 @@
     "serbian": "Serbian",
     "english": "English",
     "german": "German"
+  },
+  "hero": {
+    "heading": " A <1>unique</1> approach to learning foreign languages online",
+    "description": "Learn at your own pace, with lifetime access on mobile and desktop",
+    "getStarted": "Get Started"
   }
 }

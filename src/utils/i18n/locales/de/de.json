@@ -9,5 +9,10 @@
     "serbian": "Serbisch",
     "english": "Englisch",
     "german": "Deutsch"
+  },
+  "hero": {
+    "heading": "Ein <1>einzigartiger</1> Ansatz zum Online-Sprachenlernen",
+    "description": "Lerne in deinem eigenen Tempo mit lebenslangem Zugriff auf Handy und Desktop",
+    "getStarted": "Beginnen Sie mit dem Lernen"
   }
 }
