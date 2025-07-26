@@ -14,5 +14,15 @@
     "heading": "<1>Jedinstven</1> pristup učenju stranih jezika putem interneta",
     "description": "Učite sopstvenim tempom, sa doživotnim pristupom na telefonu i računaru",
     "getStarted": "Započnite sa učenjem"
+  },
+  "value": {
+    "subtitle": "Zašto izabrati nas",
+    "heading": "Naše vrednosti",
+    "valueTitleOne": "Klubovi konverzacije",
+    "valueDescriptionOne": "U našoj školi vežbaćete govorne veštine i steći mnogo pozitivnih emocija!",
+    "valueTitleTwo": "Kontrola kvaliteta",
+    "valueDescriptionTwo": "Veliki rad je uložen u saradnju sa nastavnicima, a njihov rad se pažljivo prati.",
+    "valueTitleThree": "Analiza napretka",
+    "valueDescriptionThree": "U našoj školi koristi se Zajednički evropski okvir za jezike. Omogućava praćenje uspeha učenika u učenju."
   }
 }

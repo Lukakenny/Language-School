@@ -1,5 +1,6 @@
 import HeroComponent from "./components/heroComponent";
 import NavbarComponent from "./components/NavbarComponent";
+import ValuseComponent from "./components/ValuseComponent";
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
           <NavbarComponent />
           <HeroComponent />
         </div>
+
+        <ValuseComponent />
       </div>
     </>
   );
