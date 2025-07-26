@@ -1,5 +1,6 @@
 import HeroComponent from "./components/heroComponent";
 import NavbarComponent from "./components/NavbarComponent";
+import TeachersComponent from "./components/TeachersComponent";
 import ValuseComponent from "./components/ValuseComponent";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         </div>
 
         <ValuseComponent />
+        <TeachersComponent />
       </div>
     </>
   );

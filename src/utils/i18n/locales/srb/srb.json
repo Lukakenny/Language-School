@@ -24,5 +24,9 @@
     "valueDescriptionTwo": "Veliki rad je uložen u saradnju sa nastavnicima, a njihov rad se pažljivo prati.",
     "valueTitleThree": "Analiza napretka",
     "valueDescriptionThree": "U našoj školi koristi se Zajednički evropski okvir za jezike. Omogućava praćenje uspeha učenika u učenju."
+  },
+  "teachers": {
+    "subtitle": "ključne osobe",
+    "heading": "Upoznajte naše predavače"
   }
 }

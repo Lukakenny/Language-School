@@ -24,5 +24,9 @@
     "valueDescriptionTwo": "A huge work has been done with the teachers and their work has been monitored thoroughly. ",
     "valueTitleThree": "Progress analysis",
     "valueDescriptionThree": "The CEF of Reference has been used at our school.It allows to control our students success in studying."
+  },
+  "teachers": {
+    "subtitle": "key persons",
+    "heading": "Meet our teachers"
   }
 }

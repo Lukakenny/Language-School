@@ -15,10 +15,10 @@ function HeroComponent() {
               </Trans>
             </h1>
 
-            <p className="text-[14px] text-bodyText  leading-[190%] lg:w-[250px]">
+            <p className="text-center md:text-start text-[14px] text-bodyText  leading-[190%]  lg:w-[250px]">
               {t("hero.description")}
             </p>
-            <button className="text-white bg-primary2 rounded-[73px] py-[17px] px-[34px]">
+            <button className=" mx-auto md:mx-0 text-white bg-primary2 rounded-[73px] py-[17px] px-[34px]">
               {t("hero.getStarted")}
             </button>
           </div>

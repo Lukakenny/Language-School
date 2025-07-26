@@ -24,5 +24,9 @@
     "valueDescriptionTwo": "Mit den Lehrkräften wurde intensiv gearbeitet und ihre Arbeit wird sorgfältig überwacht.",
     "valueTitleThree": "Fortschrittsanalyse",
     "valueDescriptionThree": "Der Gemeinsame Europäische Referenzrahmen wird an unserer Schule verwendet. Er ermöglicht die Kontrolle des Lernfortschritts unserer Schüler."
+  },
+  "teachers": {
+    "subtitle": "Schlüsselpersonen",
+    "heading": "Lernen Sie unsere Lehrkräfte kennen"
   }
 }
