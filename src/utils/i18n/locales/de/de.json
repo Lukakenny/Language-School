@@ -28,5 +28,23 @@
   "teachers": {
     "subtitle": "Schlüsselpersonen",
     "heading": "Lernen Sie unsere Lehrkräfte kennen"
-  }
+  },
+  "testimonial": {
+    "subtitle": "Top im Lernen",
+    "heading": "Das sagen unsere Schüler"
+  },
+  "testimonials": [
+    {
+      "image": "/images/testimonial picture.png",
+      "name": "Martin Watson",
+      "course": "Teilnehmer des Spanischkurses B2",
+      "quote": "Ich hätte niemals den gleichen Fortschritt beim Spanischlernen ohne Lingua machen können. Das Beste daran ist, dass Spanischlernen jetzt zu einem meiner größten Hobbys geworden ist. Ich hätte niemals den gleichen Fortschritt beim Spanischlernen ohne Lingua machen können. Das Beste daran ist, dass Spanischlernen jetzt zu einem meiner größten Hobbys geworden ist."
+    },
+    {
+      "image": "/images/testimonial picture.png",
+      "name": "Martin Watson",
+      "course": "Teilnehmer des Spanischkurses B2",
+      "quote": "Ich hätte niemals den gleichen Fortschritt beim Spanischlernen ohne Lingua machen können. Das Beste daran ist, dass Spanischlernen jetzt zu einem meiner größten Hobbys geworden ist. Ich hätte niemals den gleichen Fortschritt beim Spanischlernen ohne Lingua machen können. Das Beste daran ist, dass Spanischlernen jetzt zu einem meiner größten Hobbys geworden ist."
+    }
+  ]
 }

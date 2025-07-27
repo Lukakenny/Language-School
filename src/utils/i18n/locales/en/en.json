@@ -28,5 +28,23 @@
   "teachers": {
     "subtitle": "key persons",
     "heading": "Meet our teachers"
-  }
+  },
+  "testimonial": {
+    "subtitle": "top studing",
+    "heading": "Our students say"
+  },
+  "testimonials": [
+    {
+      "image": "images/testimonial picture.png",
+      "name": "Martin Watson",
+      "course": "Spain B2 course student",
+      "quote": "There is no way I could have made the same progress learning Spanish without using Lingua. The best part is now learning Spanish has become one of my biggest hobbies.There is no way I could have made the same progress learning Spanish without using Lingua. The best part is now learning Spanish has become one of my biggest hobbies."
+    },
+    {
+      "image": "images/testimonial picture.png",
+      "name": "Martin Watson",
+      "course": "Spain B2 course student",
+      "quote": "There is no way I could have made the same progress learning Spanish without using Lingua. The best part is now learning Spanish has become one of my biggest hobbies.There is no way I could have made the same progress learning Spanish without using Lingua. The best part is now learning Spanish has become one of my biggest hobbies."
+    }
+  ]
 }

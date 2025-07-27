@@ -13,3 +13,9 @@
   --color-bgWhite: #ffffff;
   --color-bgDark: #f8fafe;
 }
+
+@layer utilities {
+  .swiper-pagination {
+    @apply absolute bottom-0 left-0 right-0 w-full text-center mt-4;
+  }
+}

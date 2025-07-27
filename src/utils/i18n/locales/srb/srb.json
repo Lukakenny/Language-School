@@ -28,5 +28,23 @@
   "teachers": {
     "subtitle": "ključne osobe",
     "heading": "Upoznajte naše predavače"
-  }
+  },
+  "testimonial": {
+    "subtitle": "najbolji u učenju",
+    "heading": "Naši studenti kažu"
+  },
+  "testimonials": [
+    {
+      "image": "/images/testimonial picture.png",
+      "name": "Martin Watson",
+      "course": "Student španskog B2 kursa",
+      "quote": "Nikada ne bih mogao da postignem isti napredak u učenju španskog bez Lingue. Najbolji deo je što je učenje španskog sada postalo jedno od mojih omiljenih hobija. Nikada ne bih mogao da postignem isti napredak u učenju španskog bez Lingue. Najbolji deo je što je učenje španskog sada postalo jedno od mojih omiljenih hobija."
+    },
+    {
+      "image": "/images/testimonial picture.png",
+      "name": "Martin Watson",
+      "course": "Student španskog B2 kursa",
+      "quote": "Nikada ne bih mogao da postignem isti napredak u učenju španskog bez Lingue. Najbolji deo je što je učenje španskog sada postalo jedno od mojih omiljenih hobija. Nikada ne bih mogao da postignem isti napredak u učenju španskog bez Lingue. Najbolji deo je što je učenje španskog sada postalo jedno od mojih omiljenih hobija."
+    }
+  ]
 }

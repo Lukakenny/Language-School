@@ -1,6 +1,7 @@
 import HeroComponent from "./components/heroComponent";
 import NavbarComponent from "./components/NavbarComponent";
 import TeachersComponent from "./components/TeachersComponent";
+import TestimonialsComponent from "./components/TestimonialsComponent";
 import ValuseComponent from "./components/ValuseComponent";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
 
         <ValuseComponent />
         <TeachersComponent />
+        <TestimonialsComponent />
       </div>
     </>
   );
