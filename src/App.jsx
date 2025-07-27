@@ -3,7 +3,7 @@ import NavbarComponent from "./components/NavbarComponent";
 import QuestionComponent from "./components/QuestionComponent";
 import TeachersComponent from "./components/TeachersComponent";
 import TestimonialsComponent from "./components/TestimonialsComponent";
-import ValuseComponent from "./components/ValuseComponent";
+import ValuesComponent from "./components/ValuesComponent";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           <HeroComponent />
         </div>
 
-        <ValuseComponent />
+        <ValuesComponent />
         <TeachersComponent />
         <TestimonialsComponent />
         <QuestionComponent />

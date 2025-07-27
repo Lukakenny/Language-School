@@ -3,7 +3,7 @@ import play from "../assets/Play.png";
 import glass from "../assets/Glass Icons.png";
 import paper from "../assets/Paper.png";
 
-function ValuseComponent() {
+function ValuesComponent() {
   const { t } = useTranslation();
 
   return (
@@ -60,4 +60,4 @@ function ValuseComponent() {
   );
 }
 
-export default ValuseComponent;
+export default ValuesComponent;
