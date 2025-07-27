@@ -46,5 +46,31 @@
       "course": "Teilnehmer des Spanischkurses B2",
       "quote": "Ich hätte niemals den gleichen Fortschritt beim Spanischlernen ohne Lingua machen können. Das Beste daran ist, dass Spanischlernen jetzt zu einem meiner größten Hobbys geworden ist. Ich hätte niemals den gleichen Fortschritt beim Spanischlernen ohne Lingua machen können. Das Beste daran ist, dass Spanischlernen jetzt zu einem meiner größten Hobbys geworden ist."
     }
+  ],
+  "faq": [
+    {
+      "question": "Wie kann ich mein Sprachniveau bestimmen?",
+      "answer": "Vor Kursbeginn bieten wir einen kurzen Einstufungstest an, um Ihr aktuelles Sprachniveau festzustellen und die passende Gruppe zu empfehlen."
+    },
+    {
+      "question": "Muss ich Unterrichtsmaterialien kaufen?",
+      "answer": "Nein, alle notwendigen Materialien werden vom Lehrer bereitgestellt und sind im Kurspreis enthalten. Sie erhalten sie je nach Kursformat digital oder gedruckt."
+    },
+    {
+      "question": "Kann ich den Kurs einzeln oder nur in der Gruppe machen?",
+      "answer": "Sie können zwischen Einzelunterricht und Gruppenunterricht wählen – je nach Wunsch und Lernziel."
+    },
+    {
+      "question": "Passen Sie sich dem Zeitplan des Schülers an?",
+      "answer": "Ja, wir bemühen uns, einen flexiblen Zeitplan anzubieten und gemeinsam mit Ihnen passende Termine zu finden."
+    },
+    {
+      "question": "Wie groß ist die maximale Gruppengröße?",
+      "answer": "Unsere Gruppen bestehen aus maximal 6 Teilnehmern, um individuelle Betreuung und effektives Lernen zu gewährleisten."
+    },
+    {
+      "question": "Wie läuft die erste Stunde mit dem Lehrer ab?",
+      "answer": "Am Ende der Probestunde können Sie selbst entscheiden, ob diese Art von Online-Unterricht für Sie geeignet ist. Die meisten unserer Schüler erkennen den Nutzen des Online-Lernens und entscheiden sich dafür."
+    }
   ]
 }

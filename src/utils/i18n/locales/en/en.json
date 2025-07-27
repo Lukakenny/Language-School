@@ -46,5 +46,35 @@
       "course": "Spain B2 course student",
       "quote": "There is no way I could have made the same progress learning Spanish without using Lingua. The best part is now learning Spanish has become one of my biggest hobbies.There is no way I could have made the same progress learning Spanish without using Lingua. The best part is now learning Spanish has become one of my biggest hobbies."
     }
+  ],
+  "question": {
+    "subtitle": "more info",
+    "heading": "Common questions"
+  },
+  "faq": [
+    {
+      "question": "How can I know my level of knowledge?",
+      "answer": "Before starting a course, we offer a short placement test to assess your current language level and recommend the appropriate group."
+    },
+    {
+      "question": "Do I need to buy materials for lessons?",
+      "answer": "No, all necessary materials are provided by the teacher and included in the course. You will receive digital or printed materials depending on the format."
+    },
+    {
+      "question": "Can I do it individually or only in a group?",
+      "answer": "You can choose between individual lessons or group sessions depending on your preference and learning goals."
+    },
+    {
+      "question": "Are you adjusting to the student’s schedule?",
+      "answer": "Yes, we try to offer flexible scheduling and work with each student to find the most convenient time for lessons."
+    },
+    {
+      "question": "What is the maximum group size?",
+      "answer": "Our group classes have a maximum of 6 students to ensure personal attention and effective learning."
+    },
+    {
+      "question": "How the first lesson with teacher will be?",
+      "answer": "By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online."
+    }
   ]
 }

@@ -46,5 +46,31 @@
       "course": "Student španskog B2 kursa",
       "quote": "Nikada ne bih mogao da postignem isti napredak u učenju španskog bez Lingue. Najbolji deo je što je učenje španskog sada postalo jedno od mojih omiljenih hobija. Nikada ne bih mogao da postignem isti napredak u učenju španskog bez Lingue. Najbolji deo je što je učenje španskog sada postalo jedno od mojih omiljenih hobija."
     }
+  ],
+  "faq": [
+    {
+      "question": "Kako mogu da znam svoj nivo znanja?",
+      "answer": "Pre početka kursa nudimo kratak test za određivanje nivoa znanja kako bismo vam preporučili odgovarajuću grupu."
+    },
+    {
+      "question": "Da li moram da kupujem materijale za časove?",
+      "answer": "Ne, svi potrebni materijali su obezbeđeni od strane predavača i uključeni su u cenu kursa. Materijale dobijate u digitalnom ili štampanom obliku, u zavisnosti od formata nastave."
+    },
+    {
+      "question": "Da li mogu da pohađam časove individualno ili samo u grupi?",
+      "answer": "Možete birati između individualnih časova i grupne nastave, u zavisnosti od vaših ciljeva i preferencija."
+    },
+    {
+      "question": "Da li se prilagođavate rasporedu učenika?",
+      "answer": "Da, trudimo se da ponudimo fleksibilan raspored i da zajedno pronađemo termin koji vama najviše odgovara."
+    },
+    {
+      "question": "Kolika je maksimalna veličina grupe?",
+      "answer": "Našim grupnim časovima prisustvuje najviše 6 polaznika kako bi se omogućio kvalitetan rad i individualna pažnja."
+    },
+    {
+      "question": "Kako izgleda prvi čas sa profesorom?",
+      "answer": "Na kraju probnog časa znaćete da li vam ovakav vid nastave odgovara. Na osnovu našeg iskustva, većina polaznika prepozna prednosti online nastave i odlučuje se za nastavak školovanja na ovaj način."
+    }
   ]
 }

@@ -34,7 +34,7 @@ function TestimonialsComponent() {
             >
               {testimonials.map((testimonial, index) => {
                 return (
-                  <SwiperSlide role={index}>
+                  <SwiperSlide key={index}>
                     <div className="flex flex-row gap-[128px]">
                       <div className=" hidden lg:block w-[50%]">
                         <img src={testimonial.image} alt="" />

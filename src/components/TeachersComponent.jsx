@@ -64,7 +64,7 @@ function TeachersComponent() {
         >
           {teachers.map((teacher, index) => {
             return (
-              <SwiperSlide role={index}>
+              <SwiperSlide key={index}>
                 <div className="flex flex-col gap-[40px]">
                   <img src={teacher.image} alt="teacherImage" />
 
