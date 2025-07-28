@@ -51,7 +51,7 @@ function NavbarComponent() {
         </div>
 
         <div>
-          <select onClick={(e) => changeLanguage(e.target.value)}>
+          <select onChange={(e) => changeLanguage(e.target.value)}>
             <option value="en">{t("navBar.english")}</option>
             <option value="srb">{t("navBar.serbian")}</option>
             <option value="de">{t("navBar.german")}</option>
