@@ -1,3 +1,4 @@
+import ContactComponent from "./components/ContactComponent";
 import HeroComponent from "./components/heroComponent";
 import NavbarComponent from "./components/NavbarComponent";
 import QuestionComponent from "./components/QuestionComponent";
@@ -8,7 +9,7 @@ import ValuesComponent from "./components/ValuesComponent";
 function App() {
   return (
     <>
-      <div>
+      <main>
         <div className="bg-[#FFF5F1] mt-[32px] mx-[32px] mb-[100px] rounded-[40px]">
           <NavbarComponent />
           <HeroComponent />
@@ -18,7 +19,8 @@ function App() {
         <TeachersComponent />
         <TestimonialsComponent />
         <QuestionComponent />
-      </div>
+        <ContactComponent />
+      </main>
     </>
   );
 }
