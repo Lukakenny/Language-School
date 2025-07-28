@@ -1,12 +1,41 @@
-# React + Vite
+# 🌍 Lingua — Language School Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive multilingual landing page for a modern language school built with **React**, **Tailwind CSS**, **SwiperJS**, and **react-i18next**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ Fully responsive layout (mobile, tablet, desktop)
+- 🌐 Multilingual support (English, Serbian, German) via `react-i18next`
+- 📸 Swiper sliders for teachers and testimonials
+- 🎯 Tailwind CSS utility-based styling
+- 📥 Contact section with styled input
+- 📍 Footer with social icons and navigation links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **Swiper.js**
+- **react-i18next**
+- **React Icons**
+
+---
+
+## 📁 Folder Structure
+
+src/
+├── assets/ # Images & logos
+├── components/ # All reusable React components
+├── data/ # Static data (e.g., teachers, testimonials)
+├── i18n/ # Translation JSON files
+├── App.jsx
+└── main.jsx
+
+
+
+
+
