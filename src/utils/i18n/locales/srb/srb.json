@@ -1,5 +1,6 @@
 {
   "navBar": {
+    "menu": "Meni",
     "courses": "Kursevi",
     "aboutUs": "O Nama",
     "teachers": "Predavaci",
@@ -72,5 +73,9 @@
       "question": "Kako izgleda prvi čas sa profesorom?",
       "answer": "Na kraju probnog časa znaćete da li vam ovakav vid nastave odgovara. Na osnovu našeg iskustva, većina polaznika prepozna prednosti online nastave i odlučuje se za nastavak školovanja na ovaj način."
     }
-  ]
+  ],
+  "contact": {
+    "heading": "Zakažite besplatan probni čas danas",
+    "subtitle": "Počnite da ostvarujete svoje jezičke snove uz našu školu"
+  }
 }

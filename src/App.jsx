@@ -1,4 +1,5 @@
 import ContactComponent from "./components/ContactComponent";
+import FooterComponent from "./components/FooterComponent";
 import HeroComponent from "./components/heroComponent";
 import NavbarComponent from "./components/NavbarComponent";
 import QuestionComponent from "./components/QuestionComponent";
@@ -20,6 +21,7 @@ function App() {
         <TestimonialsComponent />
         <QuestionComponent />
         <ContactComponent />
+        <FooterComponent />
       </main>
     </>
   );

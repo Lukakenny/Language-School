@@ -52,7 +52,7 @@ function TeachersComponent() {
             swiper.params.navigation.nextEl = nextRef.current;
           }}
           breakpoints={{
-            400: {
+            320: {
               slidesPerView: 2,
               spaceBetween: 20,
             },

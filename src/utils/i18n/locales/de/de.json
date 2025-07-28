@@ -1,5 +1,6 @@
 {
   "navBar": {
+    "menu": "Menü",
     "courses": "Kurse",
     "aboutUs": "Über uns",
     "teachers": "Lehrer",
@@ -72,5 +73,9 @@
       "question": "Wie läuft die erste Stunde mit dem Lehrer ab?",
       "answer": "Am Ende der Probestunde können Sie selbst entscheiden, ob diese Art von Online-Unterricht für Sie geeignet ist. Die meisten unserer Schüler erkennen den Nutzen des Online-Lernens und entscheiden sich dafür."
     }
-  ]
+  ],
+  "contact": {
+    "heading": "Vereinbaren Sie noch heute eine kostenlose Probestunde",
+    "subtitle": "Beginnen Sie, Ihre Sprachträume mit unserer Schule zu verwirklichen"
+  }
 }
